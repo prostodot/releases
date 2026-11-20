@@ -1,0 +1,1 @@
+function e(e){return Object.keys(e.inputs).length>0||Object.keys(e.connections??{}).length>0}export{e as t};
