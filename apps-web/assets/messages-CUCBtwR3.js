@@ -1,0 +1,1 @@
+import{r as e}from"./messages-page-De--FZQP.js";var t=e;export{t as component};

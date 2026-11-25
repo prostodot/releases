@@ -1,0 +1,1 @@
+import{zn as e}from"./index-BAJ8aSl3.js";import{t}from"./jsx-runtime-DApVmHJR.js";var n=t();function r(){return(0,n.jsx)(`div`,{className:`min-w-0 flex-1 px-6 py-8 sm:px-10`,children:(0,n.jsx)(`div`,{className:`mx-auto w-full max-w-3xl`,children:(0,n.jsx)(e,{})})})}export{r as component};
