@@ -1,0 +1,1 @@
+import{r as e}from"./messages-page-KvXcRyw3.js";var t=e;export{t as component};
